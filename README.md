@@ -38,6 +38,7 @@ The explorer is a 2D side scrolling action game for the Unity where the player t
 ## Enemy-Chomper
 **Little pink enemy that widely separate in the forest.**
 **![](https://lh6.googleusercontent.com/NWhdoNqaXRvsWBdcx47QjNwlHF9MfRWXJa14J7-Hq05N1nDj9Y5gLOkv0-7RaB_MluxDtWIzEif2WHu6EckDDV_jJDU7K36M6o-hMFmKTmHLgxL89KnSfV1LTv59E_Dk6RBssaDuh9iS)![](https://lh5.googleusercontent.com/D4Iepji-yXDBDAzkWpZr7tO8ik3W2hhy8RiDyyxhAqDNmJlm0PRQHxGHUoJ2zMFWyXcrrZqxdXSL0-w3fsLS0G_oIr8L7P7hE6xW9MxFr-0WDCC_DlWYM6kGQN5b967gnIyA-MG9Jg07)**
+
 **![](https://lh4.googleusercontent.com/mulwQCwGnZ7UdyI40cx6ALzUd6krAHGPOjxXC-ea76l6DCyDaxk7xadeycW6vp7X78FM3w83sLmKIKio_Ry2_66cgVkxd8tJkM1Cq-lSFEpaJoikUxg79ZOu-dVNrDk6Xtp9y50BwTPc)**
 
 ## Other Game Features
